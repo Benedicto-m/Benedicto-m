@@ -1,5 +1,3 @@
-# Benedicto-m
-
 **English** | [Français](#français)
 
 Full-stack developer focused on building scalable web applications and robust backend systems.
@@ -16,7 +14,7 @@ I build efficient, maintainable solutions across the full stack. Passionate abou
 
 ## Let's Connect
 
-Feel free to explore my repositories and reach out if you'd like to collaborate.
+Feel free to follow me if you want to collaborate.
 
 ---
 
@@ -36,4 +34,4 @@ Je crée des solutions efficaces et maintenables sur toute la pile. Passionné p
 
 ## Restons en contact
 
-N'hésitez pas à explorer mes dépôts et à me contacter si vous souhaitez collaborer.
+N'hésitez pas à le suivre si interessé soit pour la collaboration
