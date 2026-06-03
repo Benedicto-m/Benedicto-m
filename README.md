@@ -1,6 +1,6 @@
 **English** | [Français](#français)
 
-Full-stack developer focused on building scalable web applications and robust backend systems.
+Software engineer focused on building scalable web applications and robust backend systems.
 
 ## Tech Stack
 
