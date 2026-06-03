@@ -20,7 +20,7 @@ Feel free to follow me if you want to collaborate.
 
 ## Français
 
-Développeur full-stack axé sur la création d'applications web évolutives et de systèmes backend robustes.
+Ingénieur logiciel axé sur la création d'applications web évolutives et de systèmes backend robustes.
 
 ## Stack Technologique
 
