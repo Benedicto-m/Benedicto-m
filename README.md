@@ -1,6 +1,6 @@
 **English** | [Français](#français)
 
-Software engineer focused on building scalable web applications and robust backend systems.
+Software engineer focused on building scalable web applications and robust backend systems...
 
 ## Tech Stack
 
