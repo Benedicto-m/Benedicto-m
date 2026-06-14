@@ -1,10 +1,10 @@
 **English** | [Français](#français)
 
-Software engineer focused on building scalable web applications and robust backend systems...
+Software engineer focused on building scalable web applications and robust backend systems
 
 ## Tech Stack
 
-**Frontend:** React, Next.js, TypeScript  
+**Frontend:** React, Next.js
 **Backend:** Golang, TypeScript  
 **Database:** PostgreSQL, SQLite
 
@@ -24,7 +24,7 @@ Ingénieur logiciel axé sur la création d'applications web évolutives et de s
 
 ## Stack Technologique
 
-**Frontend:** React, Next.js, TypeScript  
+**Frontend:** React, Next.js
 **Backend:** Golang, TypeScript  
 **Base de données:** PostgreSQL, SQLite
 
