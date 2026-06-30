@@ -4,9 +4,8 @@ Software engineer focused on building scalable web applications and robust backe
 
 ## Tech Stack
 
-**Frontend:** React, Next.js
-**Backend:** Golang, TypeScript  
-**Database:** PostgreSQL, SQLite
+Golang, TypeScript 
+PostgreSQL, SQLite
 
 ## About
 
