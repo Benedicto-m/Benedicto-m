@@ -1,6 +1,6 @@
 **English** | [Français](#français)
 
-Software engineer focused on building scalable web applications and robust backend systems
+Software engineer focused on building scalable web app
 
 ## Tech Stack
 
@@ -19,13 +19,12 @@ Feel free to follow me if you want to collaborate.
 
 ## Français
 
-Ingénieur logiciel axé sur la création d'applications web évolutives et de systèmes backend robustes.
+Ingénieur logiciel axé sur la création d'applications web évolutives 
 
 ## Stack Technologique
 
-**Frontend:** React, Next.js
-**Backend:** Golang, TypeScript  
-**Base de données:** PostgreSQL, SQLite
+Golang, TypeScript 
+PostgreSQL, SQLite
 
 ## À propos
 
