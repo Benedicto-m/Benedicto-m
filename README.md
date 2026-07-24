@@ -19,8 +19,6 @@ Robust systems over impressive demos.
 
 Currently working on financial and operational software for local institutions in the DRC.
 
-Learning computer science deeply through **CS50** and continuous system building.
-
 ---
 
 `Build quietly. Test seriously. Ship systems that survive reality.`
