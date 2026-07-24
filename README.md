@@ -16,9 +16,6 @@ Reliability over hype.
 Clear logic over unnecessary complexity.
 Robust systems over impressive demos.
 ```
-
-Currently working on financial and operational software for local institutions in the DRC.
-
 ---
 
 `Build quietly. Test seriously. Ship systems that survive reality.`
