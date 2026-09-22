@@ -1,22 +1,18 @@
 # Benedicto Mirindi
 
-Backend developer from the Democratic Republic of Congo.
+Backend developer and systems craftman 
 
-I build software for real operational problems especially where infrastructure and connectivity are limited. I care about clear logic, reliable systems, and tools that remain useful outside a demo environment.
+Removing noises and building systems that resist on shock is my core delusion
 
 ## What I work with
 
-- **Go** for backend services, core  logic, and APIs
-- **Next.js** for UI of web apps 
+- **Go** for  core  logic, and APIs
+- **Next.js** for UI visualization 
 
 
 
 ## Principles
 
-> Reliability over hype.  
-> Clear logic over unnecessary complexity.  
+> Reliability.  
+> Clear logic.  
 > Real usefulness over impressive demos.
-
----
-
-*Build quietly. Test seriously. Ship systems that survive reality.*
