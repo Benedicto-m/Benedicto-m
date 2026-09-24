@@ -2,12 +2,12 @@
 
 Backend developer and systems craftman 
 
-Removing noises and building systems that resist on shock is my core delusion
+Removing noise and building systems that resist on shock is my core philosophy 
 
 ## What I work with
 
 - **Go** for  core  logic, and APIs
-- **React.js** for UI visualization 
+- **React.js** Helps me to have the  User perspective
 
 
 
